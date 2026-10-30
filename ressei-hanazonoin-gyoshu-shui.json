@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hanazonoin-gyoshu-shui",
  "yomi": "はなぞのいんぎょしゅうしゅうい",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集（拾遺）",
+  "era": "鎌倉末〜南北朝時代",
+  "author": "花園院",
+  "desc": "花園院の歌のうち、御集に漏れたものを勅撰集などから集めた拾遺。永福門院らとの贈答や、正しい道を守るよう神に祈る歌が並ぶ。"
+ },
  "editions": [
   {
    "pid": "1088203",
